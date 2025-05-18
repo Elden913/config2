@@ -7,25 +7,26 @@ background = "#282c34ff"
 color = "#979eabff"
 separator = "#282c34ff"
 tag_fg = "#979eabff"
-tag_bg = "#393e48ff"
-tag_focused_fg = "#282c34ff"
-tag_focused_bg = "#61afefff"
+
+tag_bg = "#30343bff"
+tag_focused_fg = "#979eabff"
+tag_focused_bg = "#3c414aff"
 tag_urgent_fg = "#282828ff"
-tag_urgent_bg = "#cc241dff"
-tag_inactive_fg = "#d79921ff"
-tag_inactive_bg = "#282828ff"
+tag_urgent_bg = "#E06C75ff"
+tag_inactive_fg = "#979eabff"
+tag_inactive_bg = "#282c34ff"
 
 # The font and various sizes
 font = "Hack Nerd Font 12"
 height = 20
 separator_width = 0
-tags_r = 10
-blocks_r = 10
+tags_r = 5
+blocks_r = 5
 margin_top = 0
 margin_bottom = 0
 margin_left = 0
 margin_right = 0
-tags_padding = 25.0
+tags_padding = 20.0
 tags_margin = 0.0
 blocks_overlap = 0.0
 
